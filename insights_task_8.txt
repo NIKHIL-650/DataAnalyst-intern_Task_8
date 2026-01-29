@@ -1,0 +1,3 @@
+1. Customers in the West region generate higher average sales compared to other regions.
+2. Running totals show a steady increase in revenue with seasonal spikes in Q4.
+3. Technology category consistently dominates top product rankings across regions.
